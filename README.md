@@ -2,7 +2,7 @@
 
 Sea-Shell is a UNIX shell implemented within C. 
 
-### Installation
+### Install
 * git clone https://github.com/EdONeill1/Sea-Shell
 * cd Sea-Shell
 * make
@@ -22,6 +22,8 @@ hello
 ```
 
 There are limitations to the shell however.
+
+
 (1) You can redirect output and pipe output to more than a degree of one.
 
 ```
